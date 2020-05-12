@@ -1,15 +1,15 @@
 ﻿Követelmény:
 Projektmódszer segítségével alkossunk. A munka lényege, hogy mindenki egy a saját produktumot létrehoz, amelyből egy közös munka eredménye születik. Munkánk több gondolati síkon futott, majd a végső elgondolás egy True or False játék lett, mellyel Igaz vagy Hamis gombbal lehet válaszolni. A kérdések a játékon belül megadhatók, ezeket a gép később véletlenszeren jeleníti meg. A végső állapot akár egy témazáró dolgozatban a tanulók tudásának ellenőrzésének egy módja. A tanuló visszajelzést kap a válaszok helyességéről. 
 Funkcionális specifikáció:
-A játékhoz tartozik egy piros zöld ikon, amelyben egy kérdőjel található, ez utal a felelet választás színeire. Elindítása után betöltődik háttér és a játék menüje, ahol két gombja van a „játék indítása” és „kilépése”. Rákattintuk a játék indítására, ahol fenti szürke téglalapon megjelennek a kérdések véletlenszerűen. A zöld=Igaz feliratú piros=Hamis feliratú téglalapokra kattintva lehet válsztani, hogy igaz e a kérdés vagy sem. Menüben a válasz ha helyes vagy helytelen, akkor a másikszínű téglalap helyén jelenik meg az erről szóló üzenet. A menüből a kilépés gombra kattinva megszűnik a játék.
+A játékhoz tartozik egy piros zöld ikon, amelyben egy kérdőjel található, ez utal a felelet választás színeire. Elindítása után betöltődik háttér és a játék menüje, ahol két gombja van a „játék indítása” és „kilépése”. Rákattintuk a játék indítására, ahol fenti szürke téglalapon megjelennek a kérdések véletlenszerűen. A zöld=Igaz feliratú piros=Hamis feliratú téglalapokra kattintva lehet válsztani, hogy igaz e a kérdés vagy sem. Menüben a válasz ha helyes vagy helytelen, akkor a másikszínű téglalap helyén jelenik meg az erről szóló üzenet. Mindeközben a helyes válaszokat számolja a program. A menüből a kilépés gombra kattinva megszűnik a játék.
 Rendszerterv a Trello segítségével:
 Ikon készítése – P
 Menü tervezése – L
-Kérdező felület tervezése alakítása – P.L.B.
+Kérdező felület tervezése alakítása – P.L.B.SZ
 Kérdések megadása, bőví tése, beállítása – B.
-Helyes válaszok számolása (TÖRÖLVE)
+Helyes válaszok számolása SZ
 Kérdések animálása - B.P.L.SZ.
 Játék elrendezése és külleme - B.P.L.SZ.
 Dokumentáció elkészítése - B.P.L.SZ.
 Tesztelés:
-Mindenki tesztelte a programrészét, ami sikerrel zárult. Ezután a program összetétel során ütköztünk problémákba. pl.: A helyes válaszok számolása, mert a program nem tudta a kódot használni(Rossz kód). Tesztelések során a különböző problémákat úgy küszöböltük, hogy kivettük a hibás elemeket, ezáltal készült egy alap verzió.
+Mindenki tesztelte a programrészét, ami sikerrel zárult. Tesztelések során a különböző problémákat úgy küszöböltük, hogy kivettük a hibás elemeket, ezáltal készült egy alap verzió. Összességében eléedettek vagyunk a munkánk eredményével
